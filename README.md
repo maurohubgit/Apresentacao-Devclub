@@ -23,7 +23,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./perfil.jpg" width="100px;" alt="Foto do Mauro Rodrigues no GitHub"><br>
+        <img src="./perfil.png" width="100px;" alt="Foto do Mauro Rodrigues no GitHub"><br>
         <sub>
           <b>Mauro Rodrigues</b>
         </sub>
